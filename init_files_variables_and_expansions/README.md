@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-![Init_files_variables_and_expansions.png](README-images/init_files_variables_and_expansions.png)
+![Init_files_variables_and_expansions.png](README-image/init_files_variables_and_expansions.png)
 
 </div>
 
