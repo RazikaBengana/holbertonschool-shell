@@ -219,7 +219,7 @@ General
 
 - Look at some files in the `/etc/profile.d` directory.
 
-- You do not have to learn about `awk`, `tar`, `bzip2`, `date`, `scp`, `ulimit`, `unmask` or shell scripting, yet.
+- You do not have to learn about `awk`, `tar`, `bzip2`, `date`, `scp`, `ulimit`, `unmask` or **shell scripting**, yet.
 
 <br>
 <br>
